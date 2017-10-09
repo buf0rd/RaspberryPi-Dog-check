@@ -26,7 +26,7 @@ else
 echo "Dog cold warning"
 
 mailform=/tmp/1form.txt
-myemail=bufordadrian@gmail.com
+myemail=BLANK@gmail.com
 ####################################
 #The email magic####################
 ####################################
